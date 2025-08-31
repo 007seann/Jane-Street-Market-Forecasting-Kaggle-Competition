@@ -1,4 +1,4 @@
-**Jane Street Real-Time Market Forecasting (47M-row dataset), Kaggle Competition**
+**Jane Street Real-Time Market Forecasting (24M-row dataset), Kaggle Competition**
 
 - Conducted **EDA and time-series analysis** on anonymised financial data: analysed feature–feature and feature–responder correlations, identified non-stationarity, missing values, and fat-tailed distributions; designed preprocessing pipeline with **median imputation, robust scaling, and winsorization**.
 - Benchmarked models under identical preprocessing:
